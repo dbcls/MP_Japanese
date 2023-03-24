@@ -1,2 +1,2 @@
-# mp_Japanse
+# MP_Japanse
 The Japanese translation of the Mammalian phenotype ontology
