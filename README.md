@@ -21,4 +21,11 @@
 - 2023/07/26 Use-caseに2023/0727のデータを追加しました。
 - 2023/07/06 Use_caseに2023/7のデータを追加しました。
 - 2023/05/01 約40Termについて新規日本語訳をExpert versionに追加しました。
-- 2023/05/01 Use caseにRGDが提供するRatの系統と及び遺伝子に対するMPのアノテーションデータにMPラベルを付与したファイルを追加しました。
+- 2023/05/01 Use caseにRGDが提供するRatの系統と及び遺伝子に対するMPのアノテーションデータにMPラベルを付与したファイルを追加しました。=
+
+# translator and confirmer
+- Terue Takatsuki(DBCLS)
+- Toyofumi Fujiwara(DBCLS)
+- Tatsuya Kushida(RIKEN BRC)
+- Hiroshi Masuya(RIKEN BRC)
+- Eisuke Dohi(NCNP)
