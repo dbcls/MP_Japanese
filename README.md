@@ -1,3 +1,6 @@
+# Project title
+- The MP Japanese Translation Project
+  
 # Mammalian Phenotype Ontology　日本語訳版
 - MGIにおいて作成されたMammalian phenotype ontology（MP）は、マウスの表現型のアノテーションに広く利用されており、日本語化することで、日本における表現型アノテーションの利便性の向上を目指しています。
 
