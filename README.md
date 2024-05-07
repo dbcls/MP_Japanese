@@ -16,7 +16,12 @@
 # フィードバック
 - 日本語訳については、よりよいものにするために、ご意見や提案をお待ちしております。
 
+# Information
+- [第71回日本実験動物学会総会](https://cfmeeting.com/jalas71/greetings.html)において口頭発表を行います。
+  - 2024年5月29日（水）o-32 「Mammalian phenotype ontology(MP)の日本語訳の作成について」
+
 # Up date
+- 2024/05/07 Use-caseに2024/05のデータを追加しました。（MouseはZipファイルになっています。）
 - 2024/04/02 Use-caseに2024/04のデータを追加しました。
 - 2024/03/14 約100Termについて新規日本語訳をExpert Versionに追加しました。
 - 2024/03/01 Use-caseに2024/03のデータを追加しました。
@@ -31,7 +36,7 @@
 - 2023/07/26 Use-caseに2023/0727のデータを追加しました。
 - 2023/07/06 Use_caseに2023/7のデータを追加しました。
 - 2023/05/01 約40Termについて新規日本語訳をExpert versionに追加しました。
-- 2023/05/01 Use caseにRGDが提供するRatの系統と及び遺伝子に対するMPのアノテーションデータにMPラベルを付与したファイルを追加しました。=
+- 2023/05/01 Use caseにRGDが提供するRatの系統と及び遺伝子に対するMPのアノテーションデータにMPラベルを付与したファイルを追加しました。
 
 # translator and confirmer
 - Terue Takatsuki(DBCLS)
