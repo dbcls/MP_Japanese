@@ -38,6 +38,10 @@
 - 2023/05/01 約40Termについて新規日本語訳をExpert versionに追加しました。
 - 2023/05/01 Use caseにRGDが提供するRatの系統と及び遺伝子に対するMPのアノテーションデータにMPラベルを付与したファイルを追加しました。
 
+# お問い合わせについて
+- お問い合わせについては下記にメールを頂ければ幸いです。
+- takatter@××××.rois.ac.jp　(××××の部分は"dbcls"を入れて下さい。)
+
 # translator and confirmer
 - Terue Takatsuki(DBCLS)
 - Toyofumi Fujiwara(DBCLS)
