@@ -13,9 +13,6 @@
 - The Mammalian phenotype ontology (MP) created by Mouse Genome Informatics (MGI) is widely used to annotate mouse phenotypes. The translation of MP into Japanese is accelerates phenotypic annotation of genomic data within Japan, promotes the international (re)use of phenotypic annotation produced by Japanese researchers, enables Japanese researchers to readily (re)use internationally annotated phenotypic annotation, and contributes to overall mammalian research. 
 - Machine translation was first performed, followed by manual curation. Experts were involved in supervising the genetics and medical terminology. We published two types of data: data after manual curation and data confirmed by experts. The files are provided in TSV, Excel, and ttl.
 
-# フィードバック
-- 日本語訳については、よりよいものにするために、ご意見や提案をお待ちしております。
-
 # Information
 - [第71回日本実験動物学会総会](https://cfmeeting.com/jalas71/greetings.html)において口頭発表を行います。
   - 2024年5月29日（水）o-32 「Mammalian phenotype ontology(MP)の日本語訳の作成について」
@@ -38,7 +35,7 @@
 - 2023/05/01 約40Termについて新規日本語訳をExpert versionに追加しました。
 - 2023/05/01 Use caseにRGDが提供するRatの系統と及び遺伝子に対するMPのアノテーションデータにMPラベルを付与したファイルを追加しました。
 
-# お問い合わせについて
+# お問い合わせ/フィードバックについて
 - お問い合わせについては下記にメールを頂ければ幸いです。
 - takatter@××××.rois.ac.jp　(××××の部分は"dbcls"を入れて下さい。)
 
