@@ -14,10 +14,11 @@
 - Machine translation was first performed, followed by manual curation. Experts were involved in supervising the genetics and medical terminology. We published two types of data: data after manual curation and data confirmed by experts. The files are provided in TSV, Excel, and ttl.
 
 # Information
-- [第71回日本実験動物学会総会](https://cfmeeting.com/jalas71/greetings.html)において口頭発表を行います。
+- [第71回日本実験動物学会総会](https://cfmeeting.com/jalas71/greetings.html)において口頭発表を行いました。
   - 2024年5月29日（水）o-32 「Mammalian phenotype ontology(MP)の日本語訳の作成について」
 
 # Up date
+- 2024/07/02 Use-caseに2024/07のデータを追加しました。（MouseはZipファイルになっています。）
 - 2024/06/03 Use-caseに2024/06のデータを追加しました。（MouseはZipファイルになっています。）
 - 2024/05/07 Use-caseに2024/05のデータを追加しました。（MouseはZipファイルになっています。）
 - 2024/04/02 Use-caseに2024/04のデータを追加しました。
