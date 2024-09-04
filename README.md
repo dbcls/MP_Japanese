@@ -14,16 +14,16 @@
 - Machine translation was first performed, followed by manual curation. Experts were involved in supervising the genetics and medical terminology. We published two types of data: data after manual curation and data confirmed by experts. The files are provided in TSV, Excel, and ttl.
 
 # Information
+- [トーゴーの日](https://biosciencedbc.jp/event/symposium/togo2024/)においてポスター発表を行います。
+  - 2024年10月5日（土）47番 第2部　「医療情報のデータ統合・共有に役立つ医療オントロジーの日本語化と国際共有について」
 - [第71回日本実験動物学会総会](https://cfmeeting.com/jalas71/greetings.html)において口頭発表を行いました。
   - 2024年5月29日（水）o-32 「Mammalian phenotype ontology(MP)の日本語訳の作成について」
 
 # Up date
+- 2024/09/04 新規日本語訳をExpert Versionに追加しました。
 - 2024/07/02 Use-caseに2024/08のデータを追加しました。（MouseはZipファイルになっています。）
 - 2024/07/02 manual culationにファイルをアップデートしました。現在新規語彙を追加するために作業を行っておりますが、Expert versionのリリースが遅れる見込みです。
 - 2024/07/02 Use-caseに2024/07のデータを追加しました。（MouseはZipファイルになっています。）
-- 2024/06/03 Use-caseに2024/06のデータを追加しました。（MouseはZipファイルになっています。）
-- 2024/05/07 Use-caseに2024/05のデータを追加しました。（MouseはZipファイルになっています。）
-- 2024/04/02 Use-caseに2024/04のデータを追加しました。
 - 2024/03/14 約100Termについて新規日本語訳をExpert Versionに追加しました。
 - 2023/12/14 約100Termについて新規日本語訳をExpert Versionに追加しました。
 - 2023/07/26 約50Termについて新規日本語訳をExpert Versionに追加しました。
