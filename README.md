@@ -34,7 +34,7 @@
 - お問い合わせについては下記にメールを頂ければ幸いです。
 - takatter@××××.rois.ac.jp　(××××の部分は"dbcls"を入れて下さい。)
 
-## Sources
+# Sources
 - [Mammalian-phenotype-ontology](https://www.informatics.jax.org/downloads/reports/mp.owl)
 
 # Project members
@@ -44,5 +44,5 @@
 - Hiroshi Masuya(RIKEN BRC)
 - Eisuke Dohi(NCNP)
 
-### License
+# License
 - [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
