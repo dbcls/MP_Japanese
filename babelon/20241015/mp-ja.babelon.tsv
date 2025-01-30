@@ -1,3 +1,4 @@
+subject_id	source_language	translation_language	predicate_id	source_value	translation_status	translation_value
 MP:0000001	en	ja	rdfs:label	mammalian phenotype	OFFICIAL	哺乳類の表現型
 MP:0000003	en	ja	rdfs:label	abnormal adipose tissue morphology	OFFICIAL	脂肪組織の形態異常
 MP:0000005	en	ja	rdfs:label	increased brown adipose tissue amount	OFFICIAL	褐色脂肪組織量の増加
