@@ -6,6 +6,7 @@
 
 ## 提供ファイルについて
 - MPの日本語訳は、機械翻訳の後、マニュアルキュレーションを実施し、更には専門家による”訳”の確認を行っています。ここでは、マニュアルキュレーション後のデータと、専門家によって確認が終わっているデータの2種類を公開しています。ファイルはTSV、エクセル、ttlで提供しています。
+- MPの全ての情報を含むOWLファイルをDLしたい場合にはMGIの[サイト](https://www.informatics.jax.org/downloads/reports/index.html#pheno)の[mp-international.owl](https://www.informatics.jax.org/downloads/reports/mp-international.owl)をご利用下さい
 
 - MPの日本語訳の使用例として、MGIが提供しているAlleleの表現型のデータ及びRGDが提供している系統と遺伝子のデータに、英語ラベルと日本語訳を追加したファイルをUse_caseのフォルダーで提供しています。
 
@@ -20,7 +21,7 @@
   - 2024年5月29日（水）o-32 「Mammalian phenotype ontology(MP)の日本語訳の作成について」
 
 ## Up date
-- 2025/01//20 Use-caseに2025/01のデータを追加しました。
+- 2025/02/06 Use-caseに2025/02のデータを追加しました。
 - 2024/10/16 約140Termについて新規日本語訳をExpert versionに追加しました。
 - 2024/09/04 新規日本語訳をExpert Versionに追加しました。Use-caseに2024/09のデータを追加しました
 - 2024/07/02 manual culationにファイルをアップデートしました。現在新規語彙を追加するために作業を行っておりますが、Expert versionのリリースが遅れる見込みです。
