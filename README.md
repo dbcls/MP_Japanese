@@ -21,7 +21,7 @@
   - 2024年5月29日（水）o-32 「Mammalian phenotype ontology(MP)の日本語訳の作成について」
 
 ## Up date
-- 2025/03/03 Use-caseに2025/03のデータを追加しました。
+- 2025/04/04 Use-caseに2025/04のデータを追加しました。
 - 2024/10/16 約140Termについて新規日本語訳をExpert versionに追加しました。
 - 2024/09/04 新規日本語訳をExpert Versionに追加しました。Use-caseに2024/09のデータを追加しました
 - 2024/03/14 約100Termについて新規日本語訳をExpert Versionに追加しました。
