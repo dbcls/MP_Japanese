@@ -21,6 +21,7 @@
   - 2024年5月29日（水）o-32 「Mammalian phenotype ontology(MP)の日本語訳の作成について」
 
 ## Up date
+- 2025/05/07 約90Termについて新規日本語訳をExpert versionに追加しました。先天異常学会用語委員会の協力により、翻訳語彙の一部見直しを実施しました。
 - 2025/04/04 Use-caseに2025/04のデータを追加しました。
 - 2024/10/16 約140Termについて新規日本語訳をExpert versionに追加しました。
 - 2024/09/04 新規日本語訳をExpert Versionに追加しました。Use-caseに2024/09のデータを追加しました
@@ -43,6 +44,9 @@
 - Tatsuya Kushida(RIKEN BRC)
 - Hiroshi Masuya(RIKEN BRC)
 - Eisuke Dohi(NCNP)
+
+## Special thanks
+- 日本先天異常学会　用語委員会の皆様
 
 ## License
 - [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
