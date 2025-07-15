@@ -15,6 +15,8 @@
 - Machine translation was first performed, followed by manual curation. Experts were involved in supervising the genetics and medical terminology. We published two types of data: data after manual curation and data confirmed by experts. The files are provided in TSV, Excel, and ttl.
 
 ## Information
+- [第65回日本先天異常学会学術集会](https://jts65.jp/)においてポスター発表を行います。
+  - 2025年7月26日（土） TP-41　「哺乳類表現型オントロジー（MP）の日本語訳」
 - [トーゴーの日](https://biosciencedbc.jp/event/symposium/togo2024/)においてポスター発表を行いました。
   - 2024年10月5日（土）47番 第2部　「医療情報のデータ統合・共有に役立つ医療オントロジーの日本語化と国際共有について」
 - [第71回日本実験動物学会総会](https://cfmeeting.com/jalas71/greetings.html)において口頭発表を行いました。
