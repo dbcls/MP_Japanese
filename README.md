@@ -15,6 +15,8 @@
 - Machine translation was first performed, followed by manual curation. Experts were involved in supervising the genetics and medical terminology. We published two types of data: data after manual curation and data confirmed by experts. The files are provided in TSV, Excel, and ttl.
 
 ## Information
+- [IIBMP2025](https://www.jsbi.org/iibmp2025/)においてポスター発表を行いました。
+  - 「Facilitating International Collaboration and Utilization through the Japanese Translation of Phenotype Ontologies」
 - [第65回日本先天異常学会学術集会](https://jts65.jp/)においてポスター発表を行いました。
   - 2025年7月26日（土） TP-41　「哺乳類表現型オントロジー（MP）の日本語訳」
 - [トーゴーの日](https://biosciencedbc.jp/event/symposium/togo2024/)においてポスター発表を行いました。
@@ -23,7 +25,7 @@
   - 2024年5月29日（水）o-32 「Mammalian phenotype ontology(MP)の日本語訳の作成について」
 
 ## Up date
-- 2025/08/05 Use-caseに2025/07のデータを追加しました。
+- 2025/09/09 Use-caseに2025/09のデータを追加しました。
 - 2025/05/07 約90Termについて新規日本語訳をExpert versionに追加しました。先天異常学会用語委員会の協力により、翻訳語彙の一部見直しを実施しました。
 - 2024/10/16 約140Termについて新規日本語訳をExpert versionに追加しました。
 - 2024/09/04 新規日本語訳をExpert Versionに追加しました。Use-caseに2024/09のデータを追加しました
