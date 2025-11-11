@@ -15,7 +15,7 @@
 - Machine translation was first performed, followed by manual curation. Experts were involved in supervising the genetics and medical terminology. We published two types of data: data after manual curation and data confirmed by experts. The files are provided in TSV, Excel, and ttl.
 
 ## Information
-- [トーゴーの日シンポジウム2025](https://biosciencedbc.jp/event/symposium/togo2025/)においてポスター発表を行います。
+- [トーゴーの日シンポジウム2025](https://biosciencedbc.jp/event/symposium/togo2025/)においてポスター発表を行いました。
   - 2025年10月20日（月）34番 第1部　「表現型オントロジー（Mondo/MP）の日本語化による国際連携と活用」
 - [IIBMP2025](https://www.jsbi.org/iibmp2025/)においてポスター発表を行いました。
   - 「Facilitating International Collaboration and Utilization through the Japanese Translation of Phenotype Ontologies」
@@ -27,7 +27,7 @@
   - 2024年5月29日（水）o-32 「Mammalian phenotype ontology(MP)の日本語訳の作成について」
 
 ## Up date
-- 2025/10/14 Use-caseに2025/10のデータを追加しました。
+- 2025/11/11 Use-caseに2025/11のデータを追加しました。
 - 2025/05/07 約90Termについて新規日本語訳をExpert versionに追加しました。先天異常学会用語委員会の協力により、翻訳語彙の一部見直しを実施しました。
 - 2024/10/16 約140Termについて新規日本語訳をExpert versionに追加しました。
 - 2024/09/04 新規日本語訳をExpert Versionに追加しました。Use-caseに2024/09のデータを追加しました
