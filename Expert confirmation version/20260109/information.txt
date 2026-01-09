@@ -1,0 +1,13 @@
+<http://purl.obolibrary.org/obo/mp.owl#> rdf:type owl:Ontology.
+<http://purl.obolibrary.org/obo/mp.owl#> dc:creator "Terue Takatsuki".
+<http://purl.obolibrary.org/obo/mp.owl#> dc:creator "Eisuke Dohi".
+<http://purl.obolibrary.org/obo/mp.owl#> dc:creator "Tatsuya Kushida".
+<http://purl.obolibrary.org/obo/mp.owl#> dc:contributor "Hiroshi Masuya".
+<http://purl.obolibrary.org/obo/mp.owl#> dc:contributor "Toyofumi Fujiwara".
+<http://purl.obolibrary.org/obo/mp.owl#> dc:contributor "The Terminology Committee of the Japanese Teratology Society".
+<http://purl.obolibrary.org/obo/mp.owl#> dcterms:license <https://creativecommons.org/licenses/by/4.0/>.
+<http://purl.obolibrary.org/obo/mp.owl#> dcterms:created "2023-3-28T00:00:00"^^xsd:dateTime.
+<http://purl.obolibrary.org/obo/mp.owl#> dcterms:modified "2026-01-09T00:00:00"^^xsd:dateTime.
+<http://purl.obolibrary.org/obo/mp.owl#> dc:language "Japanese".
+<http://purl.obolibrary.org/obo/mp.owl#> dc:title "Japanese labels of MP".
+<http://purl.obolibrary.org/obo/mp.owl#> dc:description "Japanese labels of MP were created by the MP Japanese Translation Project (https://github.com/dbcls/MP_Japanse).".
